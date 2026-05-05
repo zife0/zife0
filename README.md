@@ -14,7 +14,8 @@ Proven in execution
 ## Selected Work
 
 - **system-analyzer** → system inspection & analysis  
-- **process-monitor** → process tracking & behavior observation
+- **process-monitor** → process tracking & behavior observation  
+- **system-scanner** → system scanning & data collection
 
 ---
 
