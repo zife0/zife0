@@ -6,12 +6,12 @@ I don’t follow systems. I understand them.
 
 Automation. Architecture. Control.
 
-Built in silence
+Built in silence  
 Proven in execution
 
 ---
 
-## Projects
+## Selected Work
 
 - **system-analyzer** → system inspection & analysis  
 - **process-monitor** → process tracking & behavior observation
@@ -20,6 +20,6 @@ Proven in execution
 
 ## Focus
 
-- Systems
-- Automation
+- Systems  
+- Automation  
 - Analysis
