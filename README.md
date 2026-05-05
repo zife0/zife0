@@ -15,3 +15,11 @@ Proven in execution
 
 - **system-analyzer** → system inspection & analysis  
 - **process-monitor** → process tracking & behavior observation
+
+---
+
+## Focus
+
+- Systems
+- Automation
+- Analysis
