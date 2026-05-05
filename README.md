@@ -1,4 +1,4 @@
-# Rashid 
+# Rashid
 
 > Modular systems. Real-world tools.
 
