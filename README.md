@@ -9,4 +9,4 @@ Automation. Architecture. Control.
 Built in silence
 Proven in execution
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zife0&layout=compact&theme=dark)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zife0&theme=dark)
