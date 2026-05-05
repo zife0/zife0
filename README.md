@@ -9,4 +9,3 @@ Automation. Architecture. Control.
 Built in silence
 Proven in execution
 
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=zife0&theme=dark)
