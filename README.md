@@ -15,7 +15,7 @@ Built in silence. Proven in execution.
 - **system-analyzer** → system inspection & analysis  
 - **process-monitor** → process tracking & behavior observation  
 - **system-scanner** → system scanning & data collection
-- - **system-suite** → integrated system tools ecosystem
+- **system-suite** → integrated system tools ecosystem
 
 ---
 
