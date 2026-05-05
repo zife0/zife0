@@ -15,7 +15,7 @@ Proven in execution.
 
 - **system-analyzer** → system inspection & analysis  
 - **process-monitor** → process tracking & behavior observation  
-- **system-scanner** → system scanning & data collection
+- **system-scanner** → system scanning & data collection  
 
 ---
 
@@ -23,4 +23,8 @@ Proven in execution.
 
 - Systems  
 - Automation  
-- Analysis
+- Analysis  
+
+---
+
+Control comes from understanding the system.
