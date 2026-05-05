@@ -26,5 +26,4 @@ Proven in execution.
 - Analysis  
 
 ---
-
-Control comes from understanding the system.
+Control comes from understanding the system
