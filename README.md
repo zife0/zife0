@@ -1,29 +1,61 @@
-# zife
+# Rashid
 
-Systems • Automation • Security
-
-I don’t follow systems. I understand them.
-
-Automation. Architecture. Control.
-
-Built in silence. Proven in execution.
+Systems-focused developer building modular CLI tools with clean architecture and real-world execution in mind.
 
 ---
 
-## Selected Work
+## 🛠️ Tech Focus
 
-- **system-analyzer** → system inspection & analysis  
-- **process-monitor** → process tracking & behavior observation  
-- **system-scanner** → system scanning & data collection
-- **system-suite** → integrated system tools ecosystem
+* Python (CLI tools, automation)
+* System Design & Architecture
+* Linux & System Internals (processes, memory, disk)
+* Shell Scripting (Bash)
+* Git & Version Control
+* Logging & Observability
+
+---
+
+## ⚙️ What I Build
+
+* Modular CLI tools
+* System inspection utilities
+* Automation scripts
+* Extensible plugin-based systems
 
 ---
 
-## Focus
+## 🧪 Exploring
 
-- Systems  
-- Automation  
-- Analysis  
+* Go (systems tooling)
+* Rust (performance & safety)
+* Advanced terminal UI (Rich)
 
 ---
-Control comes from understanding the system
+
+## 🚀 Featured Project
+
+### system-scanner
+
+Modular CLI tool for inspecting system resources.
+
+* Pluggable collectors (CPU, Memory, Disk)
+* Multiple output formats (JSON, Table, Rich UI)
+* Logging system + CLI interface
+* Clean, extensible architecture
+
+---
+
+## 🧠 Philosophy
+
+I focus on building tools that are:
+
+* Simple in usage
+* Structured internally
+* Designed to scale
+* Built for real-world use
+
+---
+
+## 📫 Contact
+
+Open to collaboration and building real-world tools.
