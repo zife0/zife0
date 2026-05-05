@@ -1,51 +1,61 @@
-# Rashid (rsh.core)
+# Rashid
 
-> rshd.core — modular systems, real-world tools
-
-```bash
-> initializing rshd.core environment...
-> loading modules: core, cli, output, utils
-> system ready.
-
-$ system-scanner --cpu --memory --disk --format rich
-```
+Systems-focused developer building modular CLI tools with clean architecture and real-world execution in mind.
 
 ---
 
-## 🛠️ Focus
+## 🛠️ Tech Focus
 
 * Python (CLI tools, automation)
 * System Design & Architecture
-* Linux & System Internals
-* Modular & Extensible Systems
+* Linux & System Internals (processes, memory, disk)
+* Shell Scripting (Bash)
+* Git & Version Control
+* Logging & Observability
 
 ---
 
-## 🚀 system-scanner
+## ⚙️ What I Build
 
-Modular CLI system scanner built under rshd.core.
-
-* CPU / Memory / Disk collectors
-* JSON / Table / Rich output
-* Logging + CLI interface
-* Extensible architecture
-
-```bash
-system-scanner --cpu --memory --disk --format rich
-```
+* Modular CLI tools
+* System inspection utilities
+* Automation scripts
+* Extensible plugin-based systems
 
 ---
 
-## 📊 Stats
+## 🧪 Exploring
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zife0\&show_icons=true\&theme=tokyonight)
+* Go (systems tooling)
+* Rust (performance & safety)
+* Advanced terminal UI (Rich)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zife0\&layout=compact\&theme=tokyonight)
+---
+
+## 🚀 Featured Project
+
+### system-scanner
+
+Modular CLI tool for inspecting system resources.
+
+* Pluggable collectors (CPU, Memory, Disk)
+* Multiple output formats (JSON, Table, Rich UI)
+* Logging system + CLI interface
+* Clean, extensible architecture
 
 ---
 
 ## 🧠 Philosophy
 
-> Build tools that work in the real world
-> Keep systems modular and scalable
-> Avoid complexity, design for control
+I focus on building tools that are:
+
+* Simple in usage
+* Structured internally
+* Designed to scale
+* Built for real-world use
+
+---
+
+## 📫 Contact
+
+Open to collaboration and building real-world tools.
