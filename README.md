@@ -9,3 +9,9 @@ Automation. Architecture. Control.
 Built in silence
 Proven in execution
 
+---
+
+## Projects
+
+- **system-analyzer** → system inspection & analysis  
+- **process-monitor** → process tracking & behavior observation
