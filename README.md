@@ -1,15 +1,15 @@
-# Rashid
+# Rashid (rshd.core)
 
-Systems-focused developer building modular CLI tools with clean architecture and real-world execution in mind.
+> Modular systems. Real-world tools.
 
 ---
 
-## 🛠️ Tech Focus
+## 🛠️ Focus
 
 * Python (CLI tools, automation)
 * System Design & Architecture
-* Linux & System Internals (processes, memory, disk)
-* Shell Scripting (Bash)
+* Linux & System Internals
+* Shell (Bash)
 * Git & Version Control
 * Logging & Observability
 
@@ -20,7 +20,18 @@ Systems-focused developer building modular CLI tools with clean architecture and
 * Modular CLI tools
 * System inspection utilities
 * Automation scripts
-* Extensible plugin-based systems
+* Extensible, plugin-based systems
+
+---
+
+## 🚀 system-scanner
+
+Modular CLI system scanner built under rshd.core.
+
+* CPU / Memory / Disk collectors
+* JSON / Table / Rich output
+* Logging + CLI interface
+* Clean, extensible architecture
 
 ---
 
@@ -28,34 +39,20 @@ Systems-focused developer building modular CLI tools with clean architecture and
 
 * Go (systems tooling)
 * Rust (performance & safety)
-* Advanced terminal UI (Rich)
-
----
-
-## 🚀 Featured Project
-
-### system-scanner
-
-Modular CLI tool for inspecting system resources.
-
-* Pluggable collectors (CPU, Memory, Disk)
-* Multiple output formats (JSON, Table, Rich UI)
-* Logging system + CLI interface
-* Clean, extensible architecture
+* Terminal UI (Rich)
 
 ---
 
 ## 🧠 Philosophy
 
-I focus on building tools that are:
-
-* Simple in usage
-* Structured internally
-* Designed to scale
-* Built for real-world use
+> Build tools that work in the real world
+> Keep systems modular and scalable
+> Design for control, not complexity
 
 ---
 
-## 📫 Contact
+Focused on building tools, not just code.
 
-Open to collaboration and building real-world tools.
+---
+
+rshd.core
