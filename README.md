@@ -1,4 +1,4 @@
-# Rashid (rshd.core)
+# Rashid 
 
 > Modular systems. Real-world tools.
 
@@ -54,5 +54,3 @@ Modular CLI system scanner built under rshd.core.
 Focused on building tools, not just code.
 
 ---
-
-rshd.core
